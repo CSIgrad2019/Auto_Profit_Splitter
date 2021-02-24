@@ -7,13 +7,13 @@ It allows to:
 
 After creating the contract you can execute it as such: 
 
-![contract](Resources/AssociateProfitSplitter.png)
+![contract](./Resources/AssociateProfitSplitter.png)
 
 The second contract called TieredProfitSplitter allows you to:
 
 * Distribute profits to different tiers of employees.
 
-such as: ![contract](Resources/TieredProfitSplitter.png)
+such as: ![contract](./Resources/TieredProfitSplitter.png)
 
 The third contract called DeferredEquityPlan.sol allows you to:
 
@@ -21,9 +21,9 @@ The third contract called DeferredEquityPlan.sol allows you to:
 
 After compiling the contract you run it as such by first fastforwarding the first year to be allowed to distribute the years vested shares:
 
-![contract](Resources/DeferredFastForwarding.png)
-![contract](Resources/DeferredDistribute.png)
-![contract](Resources/DeferredFastForwarding.png)
-![contract](Resources/DeferredSharesReleased.png)
+![contract](./Resources/DeferredFastForwarding.png)
+![contract](./Resources/DeferredDistribute.png)
+![contract](./Resources/DeferredFastForwarding.png)
+![contract](./Resources/DeferredSharesReleased.png)
 
 ## Thank you
