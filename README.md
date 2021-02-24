@@ -20,10 +20,21 @@ The third contract called DeferredEquityPlan.sol allows you to:
 * Distribute company shares for employees in a "deferred equity incentive plan" automatically.
 
 After compiling the contract you run it as such by first fastforwarding the first year to be allowed to distribute the years vested shares:
+Originally I already have 250 shares released and am starting from there:
+
+
+![contract](./Resources/DeferredEquityPlan.PNG)
+
+Next:
 
 ![contract](./Resources/DeferredFastForwarding.PNG)
+
+Then distributing the shares:
+
 ![contract](./Resources/DeferredDistribute.PNG)
-![contract](./Resources/DeferredFastForwarding.PNG)
+
+Finally checking the shares released:
+
 ![contract](./Resources/DeferredSharesReleased.PNG)
 
 ## Thank you
